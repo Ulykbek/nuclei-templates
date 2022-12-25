@@ -4,3 +4,5 @@ info:
   severity: info
   description: Looks for keywords in order to detect website defacement
   tags: deface, defacement
+
+### Case sensative ?
